@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+}
+.wrapper{
+    background-color: teal;
+    width: 550px;
+    height: 550px;
+    margin: auto;
+    border-radius: 10px;
+}
+.wrapper .title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+}
+
+.wrapper .input-field label{
+    width: 140px;
+    color:blue;
+    margin: 20px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.btn1{
+    background-color: blanchedalmond;
+    color: blue;
+    margin: 15px;
+    padding: 2px;
+    width: 60px;
+}
+.btn2{
+    background-color: azure;
+    color: black;
+    margin: 15px;
+    padding: 2px;
+    width: 60px;
+}
+
+.btn2:hover{
+    background-color: coral;
+    color: crimson;
+    margin: 15px;
+    padding: 2px;
+    width: 60px;
+}
