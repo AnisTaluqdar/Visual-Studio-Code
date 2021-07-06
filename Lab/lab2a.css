@@ -1,0 +1,27 @@
+img{
+    height: 280px;
+    width: 250px;
+    display: block;
+    margin: auto;
+}
+
+table{
+    width: 40%;
+}
+table,tr,td{
+    border: 3px solid green;
+}
+td{
+    padding: 20px;
+    color: midnightblue;
+    background-color:navajowhite;
+    text-align: center;
+}
+th{
+    background-color: indianred;
+    font-family: inherit;
+}
+
+.center{
+    margin: auto;
+}
